@@ -11,4 +11,6 @@ import mysql.connector
 cnx = mysql.connector.connect(user='ekjc.ctall', password='CzM809$',
                               host='127.0.0.1',
                               database='employees')
+# testing github
+
 cnx.close()
